@@ -23,7 +23,7 @@ This project is developed as part of the **Naan Mudhalvan Program**. The course 
 | Arivalan P       | 412721104006    | 31B86F3578BF431940C4E458E7EB4DFA          |
 | Naveen K         | 412721104031    | 8E5980977AA96DB895D498D8DEDE72C9          |
 | Sibiraj R        | 412721104046    | DF5A04453EFE476BA6148DFC9DC16150          |
-| sivabalan K      | 412721104047    | 0E83537C4DF00D58B7D4EAD13550E4F8          |
+| Sivabalan K      | 412721104047    | 0E83537C4DF00D58B7D4EAD13550E4F8          |
 
 We are the students of **Computer Science and Engineering** (CSE) department pursuing **IV Year 7th semester.**
 
